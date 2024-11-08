@@ -1,0 +1,5 @@
+MCP3202_TEST         KEYWORD1
+begin                KEYWORD2
+readSingleEnded      KEYWORD2
+readDifferential     KEYWORD2
+readChannel          KEYWORD2
